@@ -221,3 +221,23 @@ body{
 .text-pentaho{
   color: #49535c;
 }
+
+.w-ils{
+  width: 55px !important;
+}
+
+.w-pentaho{
+  width: 55px !important;
+}
+
+.w-luxoft{
+  width: 90px !important;
+}
+
+.w-vaultra{
+  width: 40px !important;
+}
+
+.w-avito{
+  width: 40px !important;
+}
